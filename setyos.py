@@ -10,15 +10,15 @@ cl.login(qr=True)
 cl.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(token="Elnn7JUG7n8M4sZbkboc.gOLihT71tnifKym0ReN/da.wGcY7K526O2iIUh9KZmdz2sMQ/NfoSXBRWdPy0Pwmos=")
+ki.login(qr=True)
 ki.loginResult()
 
 kk = LINETCR.LINE()
-kk.login(token="ElHlWMwp6OlKGgTgjQFd.wonDCaRl3/iazI7Wr7CaBq.HLTlKAIiHdYxH4EXtL8qMv9kC13WhTyb7hm/fSoo/sg=")
+kk.login(qr=True)
 kk.loginResult()
 
 kc = LINETCR.LINE()
-kc.login(token="Elsg7VPfdJGnvcWypBs4.KfQecyIVyxt6u3TL9+mFna.V/KyCsgUg6WZ1b6WvzyqE3TJMj/JXyNouTcazT+DoFo=")
+kc.login(qr=True)
 kc.loginResult()
 
 
